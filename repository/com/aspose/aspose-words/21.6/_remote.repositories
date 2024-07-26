@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 22 19:24:04 CST 2022
+aspose-words-21.6.pom>mvn-repo=
+aspose-words-21.6-shaping-harfbuzz-plugin.jar>mvn-repo=
+aspose-words-21.6-jdk17.jar>mvn-repo=
